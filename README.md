@@ -1,4 +1,4 @@
-# One-dimensional-heat-transfer-with-Foam-Glass-Aggregates-insulation
+# One-dimensional-heat-transfer-with-extruded-polystyrene-and-or-embedded-electrical-heating 
 Provided here is a Fortran90 code to calculate the maximal frost front penetration within a domain representing an asphalt concrete pavement insulated with extretuded polystyrene combined to electrical heating.
 
 The Fortran90 code takes as input the files:  - "Indices_de_gel.dat" --> it contains a list of freezing indexes covering the entire province of Québec, Canada.
