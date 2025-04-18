@@ -450,7 +450,7 @@ END IF
 !END IF
 
 IF(m_loop_spinup.EQ.15) THEN
-   IF(i.GE.INT(131040*60.0/dt)) THEN
+   IF(i.GE.INT(201600*60.0/dt)) THEN
    IF(((MOD(i-1,INT(86400.0/dt))).EQ.0)) THEN
       IF(intercept.LT.-1.0*(d_1+d_2+d_3)) THEN
 	     IF(power.EQ.0.0) THEN
